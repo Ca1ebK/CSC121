@@ -1,0 +1,1 @@
+alias CPP="g++ -Wall -Wextra -std=c++17 -Wfloat-equal -Winline -Wunreachable-code -Wredundant-decls -Wconversion -Wwrite-strings -Wcast-qual -Woverloaded-virtual -Weffc++ -fno-gnu-keywords -pedantic -Wparentheses -Wshadow -Wold-style-cast -fdiagnostics-color -fmessage-length=0"
