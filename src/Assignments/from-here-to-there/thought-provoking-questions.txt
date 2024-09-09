@@ -1,0 +1,8 @@
+1. I have used the sqrt() and pow() functions from the standard math library.
+
+2. I am going to test this program by testing at least
+   5-6 different pairs of coordinates. Coordinates from every
+   quadrant must be tested as well as the origin, and both
+   points with decimals and integers must be used as well.
+
+3. The user may enter a non-numerical answer, such as a character or string.
